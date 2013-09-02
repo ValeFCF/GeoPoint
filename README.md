@@ -6,7 +6,7 @@ For UI use NavigationDrawer.
 
 -----------------------------
 
-- GeoPoint
+> GeoPoint
 
 Aplicación que sirve para buscar ubicaciones en un mapa, por medio de Latitud y Longitud o por medio de Nombre o Dirección.
 Utilizo Geocoder, tiene un problema, aveces se tiene que reiniciar el smartphone para que funcione correctamente.
