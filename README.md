@@ -1,6 +1,6 @@
 GeoPoint
 -
--Application used to find locations on a map, using Latitude and Longitude or by Name or Address.
+- Application used to find locations on a map, using Latitude and Longitude or by Name or Address.
 -I use Geocoder, have a problem, sometimes you have to reboot your smartphone to work properly.
 -For UI use NavigationDrawer.
 -Use SQLite to store data.
